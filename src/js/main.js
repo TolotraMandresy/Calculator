@@ -1,4 +1,4 @@
-(function () {
+
     let result = ''
     let current = '0'
     let aff1 = document.getElementById('show-1')
@@ -67,4 +67,3 @@
             result = ''
         }
     }
-})()
